@@ -7,7 +7,7 @@
 #
 Name     : pypi-wbdata
 Version  : 1.0.0
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/2b/4a/8bc9c678277c9d737c560eefea9357c6e277d18304abc37e2af4c978192d/wbdata-1.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2b/4a/8bc9c678277c9d737c560eefea9357c6e277d18304abc37e2af4c978192d/wbdata-1.0.0.tar.gz
 Summary  : A library to access World Bank data
